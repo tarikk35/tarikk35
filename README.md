@@ -7,7 +7,6 @@ export const Info = () => {
 
   name: 'Tarık Köprülü',
   languages: [{'English': 'C1'}, {'Turkish': 'Native'}],
-  school: 'Manisa Celal Bayar University',
   degrees: [{'Bachelors': 'Software Engineering'}],
   occupation: 'Web Developer',
   freetime: ['Reading', 'Making toy projects', 'Cycling'],
