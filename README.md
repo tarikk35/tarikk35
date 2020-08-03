@@ -30,7 +30,7 @@ export const Social = () => {
   github: 'tarikk35',
   linkedin: 'tarikkoprulu',
   discord: 'Tarık#6386',
-  spotifyUri: 'spotify:user:nyiugcy23aq4t06a52fjxjjks'
+  spotify_uri: 'spotify:user:nyiugcy23aq4t06a52fjxjjks'
 
 }
 ```
