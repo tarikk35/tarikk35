@@ -1,16 +1,37 @@
-### Hi there 👋
+```javascript
+export default function () {
+  console.log('Hi there ! 👋')
+}
 
-<!--
-**tarikk35/tarikk35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+export const Info = () => {
 
-Here are some ideas to get you started:
+  name: 'Tarık Köprülü',
+  languages: [{'English': 'C1'}, {'Turkish': 'Native'}],
+  school: 'Manisa Celal Bayar University',
+  degrees: [{'Bachelors': 'Software Engineering'}],
+  occupation: 'Web Developer',
+  freetime: ['Reading', 'Making toy projects', 'Cycling'],
+  musical_taste: ['Classical Rock']
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+
+export const Programming = () => {
+
+  languages: [ 'JavaScript', 'C#', 'Dart'],
+  stylesheets: [ 'CSS', 'SASS' ],
+  frameworks: [ 'React', '.Net Core', 'Express', 'Flutter' ],
+  databases: [ 'MSSQL', 'Mongo', 'SQLite'],
+  learning: ['React', 'Go', '.Net Core'],
+  projects: ['Reactivia', 'BankingApp', 'QuizApp', 'Reactive']
+
+}
+
+export const Social = () => {
+
+  github: 'tarikk35',
+  linkedin: 'tarikkoprulu'
+  discord: 'Tarık#6386',
+  spotifyUri: 'spotify:user:nyiugcy23aq4t06a52fjxjjks'
+
+}
+```
