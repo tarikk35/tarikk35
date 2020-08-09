@@ -10,7 +10,7 @@ export const Info = () => {
   degrees: [{'Bachelors': 'Software Engineering'}],
   occupation: 'Web Developer',
   freetime: ['Reading', 'Making toy projects', 'Cycling'],
-  musical_taste: ['Classical Rock']
+  musical_taste: ['Classic Rock']
 
 }
 
