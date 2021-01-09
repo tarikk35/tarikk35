@@ -10,7 +10,7 @@ export const Info = () => {
   degrees: [{'Bachelors': 'Software Engineering'}],
   occupation: 'Web Developer',
   freetime: ['Reading', 'Making toy projects', 'Cycling'],
-  musical_taste: ['Classic Rock']
+  musical_taste: ['Classic Rock', 'Progressive Rock']
 
 }
 
@@ -18,9 +18,9 @@ export const Programming = () => {
 
   languages: [ 'JavaScript', 'C#', 'Dart'],
   stylesheets: [ 'CSS', 'SASS' ],
-  frameworks: [ 'React', '.Net Core', 'Express', 'Flutter' ],
+  frameworks: [ 'React', 'React Native', '.Net Core', 'Express', 'Flutter' ],
   databases: [ 'MSSQL', 'Mongo', 'SQLite'],
-  learning: ['React', 'Go', '.Net Core'],
+  learning: ['React', 'React Native', 'Android'],
   projects: ['Reactivia', 'BankingApp', 'QuizApp', 'Reactive']
 
 }
